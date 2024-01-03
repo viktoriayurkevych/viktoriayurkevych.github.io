@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Cafe NEGRAR	</title>
-	<atom:link href="https://viktoriayurkevych.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://viktoriayurkevych.github.io/</link>
+	Comments on: Cappuccino	</title>
+	<atom:link href="https://viktoriayurkevych.github.io/product/cappuccino/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viktoriayurkevych.github.io/product/cappuccino/</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Dec 2023 21:04:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Jan 2024 16:22:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
