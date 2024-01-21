@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>food &#8211; Cafe NEGRAR</title>
+	<atom:link href="https://viktoriayurkevych.github.io/product-tag/food/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viktoriayurkevych.github.io</link>
+	<description></description>
+	<lastBuildDate>Wed, 03 Jan 2024 16:16:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://viktoriayurkevych.github.io/wp-content/uploads/2023/12/Zrzut-ekranu-2023-12-27-233244.png</url>
+	<title>food &#8211; Cafe NEGRAR</title>
+	<link>https://viktoriayurkevych.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rimmed Plate</title>
+		<link>https://viktoriayurkevych.github.io/product/rimmed-plate/</link>
+					<comments>https://viktoriayurkevych.github.io/product/rimmed-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[viktoriayurkevych]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:18:41 +0000</pubDate>
+				<guid isPermaLink="false">https://startertemplatecloud.com/e08/?post_type=product&#038;p=132</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://viktoriayurkevych.github.io/product/rimmed-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bowl Saucer</title>
+		<link>https://viktoriayurkevych.github.io/product/bowl-saucer/</link>
+					<comments>https://viktoriayurkevych.github.io/product/bowl-saucer/#respond</comments>
+		
+		<dc:creator><![CDATA[viktoriayurkevych]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:18:37 +0000</pubDate>
+				<guid isPermaLink="false">https://startertemplatecloud.com/e08/?post_type=product&#038;p=131</guid>
+
+					<description><![CDATA[Adipiscing commodo elit at imperdiet. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Lacus luctus accumsan tortor posuere ac.]]></description>
+										<content:encoded><![CDATA[<p>Adipiscing commodo elit at imperdiet. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Lacus luctus accumsan tortor posuere ac. Convallis tellus id interdum velit laoreet id. In dictum non consectetur a erat. Augue mauris augue neque gravida in fermentum. Blandit cursus risus at ultrices.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viktoriayurkevych.github.io/product/bowl-saucer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Łosoś z topionym serem</title>
+		<link>https://viktoriayurkevych.github.io/product/salad-bowl/</link>
+					<comments>https://viktoriayurkevych.github.io/product/salad-bowl/#respond</comments>
+		
+		<dc:creator><![CDATA[viktoriayurkevych]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:18:30 +0000</pubDate>
+				<guid isPermaLink="false">https://startertemplatecloud.com/e08/?post_type=product&#038;p=130</guid>
+
+					<description><![CDATA[Wędzony łosoś / kremowy ser / rukola / cebulka czerwona / podawane w chrupiącej bagietce]]></description>
+										<content:encoded><![CDATA[Wędzony łosoś / kremowy ser / rukola / cebulka czerwona / podawane w chrupiącej bagietce]]></content:encoded>
+					
+					<wfw:commentRss>https://viktoriayurkevych.github.io/product/salad-bowl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quiche z warzywam</title>
+		<link>https://viktoriayurkevych.github.io/product/bistro-plate/</link>
+					<comments>https://viktoriayurkevych.github.io/product/bistro-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[viktoriayurkevych]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:18:24 +0000</pubDate>
+				<guid isPermaLink="false">https://startertemplatecloud.com/e08/?post_type=product&#038;p=129</guid>
+
+					<description><![CDATA[Kruche ciasto z nadzieniem z mieszanki warzyw (szpinak, pomidory, cebula) / podane z sałatką z rukoli]]></description>
+										<content:encoded><![CDATA[Kruche ciasto z nadzieniem z mieszanki warzyw (szpinak, pomidory, cebula) / podane z sałatką z rukoli]]></content:encoded>
+					
+					<wfw:commentRss>https://viktoriayurkevych.github.io/product/bistro-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
